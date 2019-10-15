@@ -12,3 +12,4 @@ Runs on `nginx` + `mysql` + `dovecot` + `exim4` + `php-fpm` :)
 7. Cron Manager
 
 * https://tinyfilemanager.github.io/
+* https://certbot.eff.org/
