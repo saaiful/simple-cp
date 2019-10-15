@@ -10,3 +10,5 @@ Runs on `nginx` + `mysql` + `dovecot` + `exim4` + `php-fpm` :)
 5. DNS Manager
 6. File Manager
 7. Cron Manager
+
+* https://tinyfilemanager.github.io/
