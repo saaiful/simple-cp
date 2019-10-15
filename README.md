@@ -1,4 +1,8 @@
 # simple-cp
+
+Runs on `nginx` + `mysql` + `dovecot` + `exim4` + `php-fpm` :)
+
+
 1. VHOST Manager
 2. User Manager
 3. Database Manager
